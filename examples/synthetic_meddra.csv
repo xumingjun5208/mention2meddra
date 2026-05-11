@@ -1,0 +1,14 @@
+pt_code,pt_name,llt_name,hlt_name,hlgt_name,soc_name
+SYN_PT_001,皮肤发疹,出疹,皮肤症状,皮肤及皮下组织异常,SYN_SOC_SKIN
+SYN_PT_001,皮肤发疹,皮肤起疹,皮肤症状,皮肤及皮下组织异常,SYN_SOC_SKIN
+SYN_PT_002,皮肤瘙痒,发痒,皮肤感觉异常,皮肤及皮下组织异常,SYN_SOC_SKIN
+SYN_PT_002,皮肤瘙痒,全身痒,皮肤感觉异常,皮肤及皮下组织异常,SYN_SOC_SKIN
+SYN_PT_003,恶心,想吐,胃肠道症状,胃肠道体征和症状,SYN_SOC_GI
+SYN_PT_003,恶心,反胃,胃肠道症状,胃肠道体征和症状,SYN_SOC_GI
+SYN_PT_004,呕吐,吐了,胃肠道症状,胃肠道体征和症状,SYN_SOC_GI
+SYN_PT_005,头晕,晕,神经系统症状,神经系统异常,SYN_SOC_NERVOUS
+SYN_PT_005,头晕,眩晕感,神经系统症状,神经系统异常,SYN_SOC_NERVOUS
+SYN_PT_006,嗜睡,犯困,意识和睡眠相关症状,神经系统异常,SYN_SOC_NERVOUS
+SYN_PT_007,心悸,心慌,心率异常,心脏症状,SYN_SOC_CARDIAC
+SYN_PT_008,呼吸不适,胸闷气短,呼吸异常,呼吸系统症状,SYN_SOC_RESP
+SYN_PT_008,呼吸不适,喘不上气,呼吸异常,呼吸系统症状,SYN_SOC_RESP

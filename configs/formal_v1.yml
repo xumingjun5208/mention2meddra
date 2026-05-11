@@ -1,0 +1,15 @@
+experiment_name: formal_v1_base_strict
+template_name: full
+model_name_or_path: hfl/chinese-macbert-base
+max_length: 64
+batch_size: 32
+eval_batch_size: 64
+learning_rate: 2.0e-5
+weight_decay: 0.01
+epochs: 5
+warmup_ratio: 0.06
+top_k: 100
+threshold: 0.3
+threshold_candidates: [0.1, 0.2, 0.3, 0.4, 0.5]
+threshold_selection_rule: exact_set_match_then_example_f1_then_lower_threshold
+seed: 42
