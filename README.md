@@ -46,6 +46,14 @@ This public release does not contain real adverse-event records, the expert corp
 
 The code can reproduce the package-level validation, candidate retrieval, prediction evaluation, repository audit, and smoke workflow. Full study reproduction requires the restricted source data, licensed terminology resources, and trained model artifacts described in the manuscript.
 
+## Model Weights
+
+The publicly released fine-tuned MacBERT reranker weights are available on Hugging Face:
+
+https://huggingface.co/xumingjun/mention2meddra-macbert-base
+
+The model repository contains inference artifacts only. It does not include real adverse-event records, expert annotation files, licensed MedDRA dictionary files, or downstream signal-detection datasets.
+
 ## Smoke Workflow
 
 ```bash
